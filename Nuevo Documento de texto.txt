@@ -1,0 +1,1 @@
+cls limpiar cd carpeta
